@@ -44,7 +44,7 @@ Tu es libre sur les technologies, avec une contrainte : **tout tourne en local, 
 
 ### Pistes locales
 
-Ces pistes tournent sur un MacBook M1 Pro 16 Go. Elles sont un point de départ, pas une obligation.
+Ces pistes sont un point de départ, pas une obligation. Pour savoir quelle taille de modèle ta machine peut faire tourner, lis `IA_LOCALE.md` à la racine du repo.
 
 | Étape | Piste | Autres pistes |
 |---|---|---|
@@ -72,7 +72,7 @@ Dans le repo :
 - `starter-pack/fiches/` : les textes et médias de chaque plante (nom, histoire, usages, où la voir), fournis par le porteur du défi
 - `starter-pack/ATTRIBUTIONS.csv` : auteur, licence et lien source de chaque photo et de chaque texte
 
-À la racine : `INSTALL.md` (installation pas à pas) et `check_setup.py` (vérifie que chaque brique tourne sur ta machine).
+À la racine : `IA_LOCALE.md` (identifier ta machine et la taille de modèle qu'elle peut faire tourner), `INSTALL.md` (installation pas à pas) et `check_setup.py` (vérifie que chaque brique tourne sur ta machine).
 
 > ℹ️ Les photos viennent du terrain et de contributeurs bénévoles : cadrages variés, flou, mauvaise lumière, parfois plusieurs plantes sur la même image. Ton modèle doit faire avec.
 
